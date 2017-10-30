@@ -1,5 +1,7 @@
 # Airbnb_Data
-Exploration of Airbnb and Housing data in Amsterdam
+
+Repo for a [two part Medium](https://medium.com/mobgen/airbnb-and-house-prices-in-amsterdam-part-1-9dc0cbffc136) article exploring Inside Airbnb and Housing data in Amsterdam
+
 
 1. Clone Repo
 2. Unzip data folder
